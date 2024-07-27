@@ -1,0 +1,7 @@
+transformers 
+beautifulsoup4 
+lxml
+pandas
+numpy
+torch
+tensorflow
